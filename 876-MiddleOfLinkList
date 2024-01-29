@@ -1,11 +1,4 @@
-# Definition for singly-linked list.
-class ListNode(object):
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
-
-class Solution(object):
+Class Solution(object):
     def middleNode(self, head):
         """
         :type head: ListNode
@@ -31,9 +24,3 @@ class Solution(object):
             current = current.next
         
         return result_head.next
-
-
-    print(middleNode(middleNode, [1,2,3,4,5]))
-        
-        
-        
