@@ -18,7 +18,7 @@ class Solution(object):
 
 
 '''
-Original solution
+Original solution\
 
         ans = [0] * n
         for i in range (0, n):
