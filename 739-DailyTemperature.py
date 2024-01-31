@@ -6,19 +6,17 @@ class Solution(object):
         """
         result = [0] * len(temperatures)
 
-        # Loop through each temperature
-        for i in range(0, len(temperatures)):
-            currentTemp = temperatures[i]
-
-            # Loop through temperatures after the current one
-            for j in range(i + 1, len(temperatures)):
-                if currentTemp < temperatures[j]:
-                    result[i] = j - i
-                    break
-
-            # If no warmer temperature found, result[i] remains 0
+        # Skipping last index as always going to output 0, then going down until -1 (index 0)
+        for i in range(len(temperatures) - 2, -1, -1):
+            j = i + 1
+            # Ensuring we do not get an bound error
+            while j < len(temperatures) and temperatures[i] >= temperatures[j]:
+                if result[j] > 0:
+                    j = j + result[j]
+                else:
+                    # Break the loop if no warmer temperature is found
+                    j = len(temperatures)  
+            if j < len(temperatures):
+                result[i] = j - i
 
         return result
-
-    #Solution is correct but too slow for large inputs
-    #Try use stack
