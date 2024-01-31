@@ -5,7 +5,7 @@ All the Python \ Solutions to the LeetCode questions I have attempted
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](.Python%Solutions/150-evaluateReversePolishNotation.py)|Medium|
-|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](.Python%Solutions/383.%20Ransom%20Note.py)|Easy|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](Python%Solutions/383-RansomNote.py)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](.Python%Solutions/412.%20Fizz%20Buzz.py)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](.Python%Solutions/485.%20Max%20Consecutive%20Ones.py)|Easy|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](.Python%Solutions/739.%20Daily%20Temperatures.py)|Medium|
