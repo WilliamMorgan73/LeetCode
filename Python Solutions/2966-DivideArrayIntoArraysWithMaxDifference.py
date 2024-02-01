@@ -7,22 +7,13 @@ class Solution(object):
         """
 
         nums.sort()
-        listOfLists = []
         result = []
-        maxNum = 0
-        minNum = 0
         #Divide list into lists of size 3
         
-        for i in range(3, len(nums)+1, 3):
-                listOfLists.append(nums[i-3:i])
-            
-        for individualList in listOfLists:
-            maxNum = max(individualList)
-            minNum = min(individualList)
-            
-            if maxNum - minNum <= k:
-                result.append(individualList)
+        for i in range(0, len(nums), 3):
+            if nums[i+2] - nums[i] <= k:
+                result.append(nums[i:i+3])
             else:
                 return []
-        
+
         return result
