@@ -13,11 +13,8 @@ class Solution(object):
         minNum = 0
         #Divide list into lists of size 3
         
-        for i in range(3, len(nums)+1):
-            if i % 3 == 0:
+        for i in range(3, len(nums)+1, 3):
                 listOfLists.append(nums[i-3:i])
-            else:
-                continue
             
         for individualList in listOfLists:
             maxNum = max(individualList)
