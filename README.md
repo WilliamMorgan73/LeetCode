@@ -5,12 +5,14 @@ All the Python \ Solutions to the LeetCode questions I have attempted
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./Python%20Solutions/150-EvaluateReversePolishNotation.py)|Medium|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](./Python%20Solutions/232-ImplementQueueUsingStacks.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](./Python%20Solutions/383-RansomNote.py)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python%20Solutions/412-FizzBuzz.py)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python%20Solutions/485-MaxConsecutiveOnes.py)|Easy|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python%20Solutions/739-DailyTemperatures.py)|Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python%20Solutions/876-MiddleOfLinkedList.py)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](./Python%20Solutions/977-SquaresOfSortedArray.py)|Easy|
+|1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](./Python%20Solutions/1291-SequentialDigits.py)|Medium|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./Python%20Solutions/1295-NumberOfEvenDigits.py)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](./Python%20Solutions/1342-ReduceNumber.py)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./Python%20Solutions/1480-RunningSum.py)|Easy|
