@@ -5,7 +5,7 @@ All the Python \ Solutions to the LeetCode questions I have attempted
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./Python%20Solutions/150-EvaluateReversePolishNotation.py)|Medium|
-|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](./Python%20Solutions/232-ImplementQueueUsingStacks.py)|Easy|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](./Python%20Solutions/232-QueueUsingStack.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](./Python%20Solutions/383-RansomNote.py)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python%20Solutions/412-FizzBuzz.py)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python%20Solutions/485-MaxConsecutiveOnes.py)|Easy|
