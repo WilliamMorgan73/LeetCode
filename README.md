@@ -1,6 +1,7 @@
 # LeetCode
-All the Python \ Solutions to the LeetCode questions I have attempted
+All the solutions to the LeetCode questions I have attempted
 
+Press on the language to see the code
 
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
