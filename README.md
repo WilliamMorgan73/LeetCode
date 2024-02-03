@@ -12,6 +12,7 @@ All the Python \ Solutions to the LeetCode questions I have attempted
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python%20Solutions/739-DailyTemperature.py)|Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python%20Solutions/876-MiddleOfLinkedList.py)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](./Python%20Solutions/977-SquaresOfSortedArray.py)|Easy|
+|1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[Python](./Python%20Solutions/1043-PartitionArrayForMaximumSum.py)|Medium|
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](./Python%20Solutions/1291-SequentialDigits.py)|Medium|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./Python%20Solutions/1295-NumberOfEvenDigits.py)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](./Python%20Solutions/1342-ReduceNumber.py)|Easy|
