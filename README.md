@@ -14,10 +14,12 @@ Press on the language to see the code
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Python%20Solutions/709-ToLower)|Easy|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python%20Solutions/739-DailyTemperature.py)|Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python%20Solutions/876-MiddleOfLinkedList.py)|Easy|
+|894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Python](./Python%20Solutions/894-AllPossibleFBT.py)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](./Python%20Solutions/977-SquaresOfSortedArray.py)|Easy|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[Python](./Python%20Solutions/1043-PartitionArrayforMaximumSum.py)|Medium|
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](./Python%20Solutions/1291-SequentialDigits.py)|Medium|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./Python%20Solutions/1295-NumberOfEvenDigits.py)|Easy|
+|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Python](./Python%20Solutions/1329-SortMatrixDiagonally.py)|Medium|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](./Python%20Solutions/1342-ReduceNumber.py)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./Python%20Solutions/1480-RunningSum.py)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python%20Solutions/1672-RichestCustomer.py)|Easy|
