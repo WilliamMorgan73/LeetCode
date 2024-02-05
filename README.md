@@ -9,6 +9,7 @@ Press on the language to see the code
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./Python%20Solutions/150-EvaluateReversePolishNotation.py)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](./Python%20Solutions/232-QueueUsingStack.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](./Python%20Solutions/383-RansomNote.py)|Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python%20Solutions/387-FirstUniqChar.py)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python%20Solutions/412-FizzBuzz.py)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python%20Solutions/485-MaxConsecutiveOnes.py)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Python%20Solutions/709-ToLower)|Easy|
