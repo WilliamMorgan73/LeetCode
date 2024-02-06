@@ -6,6 +6,7 @@ Press on the language to see the code
 | # | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./Python%20Solutions/1-TwoSum.py)|Easy|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./Python%20Solutions/49-GroupAnagrams.py)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./Python%20Solutions/150-EvaluateReversePolishNotation.py)|Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](./Python%20Solutions/232-QueueUsingStack.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](./Python%20Solutions/383-RansomNote.py)|Easy|
