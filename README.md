@@ -12,6 +12,7 @@ Press on the language to see the code
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Python](./Python%20Solutions/383-RansomNote.py)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python](./Python%20Solutions/387-FirstUniqChar.py)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python%20Solutions/412-FizzBuzz.py)|Easy|
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](./Python%20Solutions/451-SortCharactersByFrequency.py)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python%20Solutions/485-MaxConsecutiveOnes.py)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Python%20Solutions/709-ToLower)|Easy|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python%20Solutions/739-DailyTemperature.py)|Medium|
