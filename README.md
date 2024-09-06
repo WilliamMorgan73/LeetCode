@@ -30,3 +30,4 @@ Press on the language to see the code
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python%20Solutions/1672-RichestCustomer.py)|Easy|
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python%20Solutions/1894-ReplaceChalk.py)|Medium|
 |2966|[Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)|[Python](./Python%20Solutions/2966-DivideArrayIntoArraysWithMaxDifference.py)|Medium|
+|3217|[Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)[Python](./Python%20Solutions/3217-DeleteNodesFromListInArray.py)|Medium|
