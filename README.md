@@ -22,6 +22,7 @@ Press on the language to see the code
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](./Python%20Solutions/977-SquaresOfSortedArray.py)|Easy|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/)|[Python](./Python%20Solutions/1043-PartitionArrayforMaximumSum.py)|Medium|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[Python](./Python%20Solutions/1089-DuplicateZeros.py)|Easy|
+|1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string/)|[Python](./Python%20Solutions/1405-LongestHappyString.py)|Medium|
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](./Python%20Solutions/1291-SequentialDigits.py)|Medium|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./Python%20Solutions/1295-NumberOfEvenDigits.py)|Easy|
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Python](./Python%20Solutions/1329-SortMatrixDiagonally.py)|Medium|
