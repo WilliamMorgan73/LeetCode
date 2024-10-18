@@ -15,6 +15,7 @@ Press on the language to see the code
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Python](./Python%20Solutions/412-FizzBuzz.py)|Easy|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Python](./Python%20Solutions/451-SortCharactersByFrequency.py)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Python](./Python%20Solutions/485-MaxConsecutiveOnes.py)|Easy|
+|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Python](./Python%20Solutions/670-MaximumSwap.py)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./Python%20Solutions/709-ToLower)|Easy|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Python](./Python%20Solutions/739-DailyTemperature.py)|Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./Python%20Solutions/876-MiddleOfLinkedList.py)|Easy|
