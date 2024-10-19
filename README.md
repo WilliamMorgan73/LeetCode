@@ -29,6 +29,7 @@ Press on the language to see the code
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Python](./Python%20Solutions/1329-SortMatrixDiagonally.py)|Medium|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](./Python%20Solutions/1342-ReduceNumber.py)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./Python%20Solutions/1480-RunningSum.py)|Easy|
+|1545|[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[Python](./Python%20Solutions/1545-KthBitInNthBinaryString.py)|Medium|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python%20Solutions/1672-RichestCustomer.py)|Easy|
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python%20Solutions/1894-ReplaceChalk.py)|Medium|
 |2530|[Maximal Score After Applying k Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)|[Python](./Python%20Solutions/2530-MaximalScore.py)|Medium|
