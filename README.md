@@ -27,6 +27,7 @@ Press on the language to see the code
 |1291|[Sequential Digits](https://leetcode.com/problems/sequential-digits/)|[Python](./Python%20Solutions/1291-SequentialDigits.py)|Medium|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./Python%20Solutions/1295-NumberOfEvenDigits.py)|Easy|
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[Python](./Python%20Solutions/1329-SortMatrixDiagonally.py)|Medium|
+|1331|[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Python](./Python%20Solutions/1331-RankTransform.py)|Easy|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Python](./Python%20Solutions/1342-ReduceNumber.py)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Python](./Python%20Solutions/1480-RunningSum.py)|Easy|
 |1545|[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[Python](./Python%20Solutions/1545-KthBitInNthBinaryString.py)|Medium|
