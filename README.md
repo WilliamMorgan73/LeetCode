@@ -34,6 +34,7 @@ Press on the language to see the code
 |1545|[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)|[Python](./Python%20Solutions/1545-KthBitInNthBinaryString.py)|Medium|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Python](./Python%20Solutions/1672-RichestCustomer.py)|Easy|
 |1894|[Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/)|[Python](./Python%20Solutions/1894-ReplaceChalk.py)|Medium|
+|1957|[Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)|[Python](./Python%20Solutions/1957-FancyString.py)|Medium|
 |2530|[Maximal Score After Applying k Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)|[Python](./Python%20Solutions/2530-MaximalScore.py)|Medium|
 |2696|[Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)|[Python](./Python%20Solutions/2696-MinimumStringLength.py)|Medium|
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)|[Python](./Python%20Solutions/2769-MaxAchievableNumber.py)|Medium|
