@@ -4,8 +4,8 @@ All the solutions to the LeetCode questions I have attempted
 
 Press on the language to see the code
 
-| #    | Title                                                                                                                          | Language                                                                   | Difficulty |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ---------- |
+| #    | Title                                                                                                                             | Language                                                                      | Difficulty |
+| ---- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------- |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                 | [Python](./Python%20Solutions/1-TwoSum.py)                                    | Easy       |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                   | [Python](./Python%20Solutions/49-GroupAnagrams.py)                            | Medium     |
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                           | [Python](./Python%20Solutions/88-MergeSortedArray.py)                         | Easy       |
@@ -19,6 +19,7 @@ Press on the language to see the code
 | 670  | [Maximum Swap](https://leetcode.com/problems/maximum-swap/)                                                                       | [Python](./Python%20Solutions/670-MaximumSwap.py)                             | Medium     |
 | 709  | [To Lower Case](https://leetcode.com/problems/to-lower-case/)                                                                     | [Python](./Python%20Solutions/709-ToLower)                                    | Easy       |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                                           | [Python](./Python%20Solutions/739-DailyTemperature.py)                        | Medium     |
+| 796  | [Rotate String](https://leetcode.com/problems/rotate-string/)                                                                     | [Python](./Python%20Solutions/796-RotateString.py)                            | Easy       |
 | 844  | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)                             | [Python](./Python%20Solutions/844-UncommonWords.py)                           | Easy       |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                             | [Python](./Python%20Solutions/876-MiddleOfLinkedList.py)                      | Easy       |
 | 894  | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)                                   | [Python](./Python%20Solutions/894-AllPossibleFBT.py)                          | Medium     |
