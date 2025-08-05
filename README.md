@@ -45,3 +45,4 @@ Press on the language to see the code
 | 2966 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/)     | [Python](./Python%20Solutions/2966-DivideArrayIntoArraysWithMaxDifference.py) | Medium     |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/)                                                             | [Python](./Python%20Solutions/3110-ScoreOfString.py)                          | Easy       |
 | 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)   | [Python](./Python%20Solutions/3217-DeleteNodesFromListInArray.py)             | Medium     |
+| 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/?envType=daily-question&envId=2025-08-05)           | [Python](./Python%20Solutions/3477-FruitsIntoBaskets2)                        | Easy       |
