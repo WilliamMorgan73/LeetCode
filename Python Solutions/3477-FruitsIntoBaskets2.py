@@ -1,5 +1,4 @@
 import math
-from typing import List
 
 class Solution(object):
     def numOfUnplacedFruits(self, fruits, baskets):
