@@ -46,7 +46,6 @@ class Solution(object):
         # Slicing attempt
 
         i = 0
-        j = 0
 
         m = len(needle)
 
